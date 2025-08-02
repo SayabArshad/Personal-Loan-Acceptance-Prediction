@@ -1,4 +1,4 @@
-# Task 5: Personal Loan Acceptance Modeling
+# Personal Loan Acceptance Modeling
 
 ## 🎯 Objective
 
